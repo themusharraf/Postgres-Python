@@ -1,5 +1,5 @@
 # PostgreSQl 
-    Finally, activate the virtual environment
+Finally, activate the virtual environment
     Windows
 ```python -m venv venv```
     Unix
