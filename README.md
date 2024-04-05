@@ -18,6 +18,10 @@ Installing the psycopg2-binary module
 ```python
 pip install psycopg2-binary
 ```
+print with color 
+```
+pip install colorama
+````
 Second, create the requirements.txt file
 ```python
 pip freeze > requirements.txt
